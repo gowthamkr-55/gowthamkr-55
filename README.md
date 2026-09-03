@@ -1,124 +1,404 @@
-<h1 align="center">Hi 👋, I'm Gowtham K R 👋 | BCA Student | Python & ML Enthusiast</h1>
-<h3 align="center">BCA Student | Python Developer | Machine Learning Enthusiast | Building Real-World Projects</h3>
+<!-- ========================================================= -->
+<!--                       HEADER                              -->
+<!-- ========================================================= -->
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=gowthamkr-55&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=gowthamkr-55\&label=Profile%20views\&color=0e75b6\&style=flat)" alt="gowthamkr-55" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0e75b6,70:7b2cbf,100:ff4b91&height=230&section=header&text=GOWTHAM%20K%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+</p>
 
-- 🔭 I’m currently working on [Credit Card Fraud Detection using Machine Learning]\([https://github.com/gowthamkr-55/Credit-Card-Fraud-Detection-ML](https://github.com/gowthamkr-55/Credit-Card-Fraud-Detection-ML))
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;BCA+Student+%F0%9F%8E%93;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, SQL and Data Science frameworks and courses**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gowthamkr-55&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/gowthamkr-55?label=FOLLOWERS&style=for-the-badge&color=7b2cbf"/>
+  <img src="https://img.shields.io/github/stars/gowthamkr-55?label=STARS&style=for-the-badge&color=ff4b91"/>
+</p>
 
-- 💬 Ask me about **Python, Machine Learning, SQL, Data Science and my projects**
+---
 
-- 📫 How to reach me **gowthamkr55@gmail.com**
+<!-- ========================================================= -->
+<!--                     ABOUT ME                              -->
+<!-- ========================================================= -->
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/10OGvySSj1-JOFBUzLG22DSbX089UhuXk/view?usp=drivesdk\](https://drive.google.com/file/d/10OGvySSj1-JOFBUzLG22DSbX089UhuXk/view?usp=drivesdk)](https://drive.google.com/file/d/10OGvySSj1-JOFBUzLG22DSbX089UhuXk/view?usp=drivesdk]\(https://drive.google.com/file/d/10OGvySSj1-JOFBUzLG22DSbX089UhuXk/view?usp=drivesdk\))
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
-- ⚡ Fun fact **I enjoy turning ideas into projects and learning something new every day!**
+<table width="100%" border="2" cellpadding="14" cellspacing="0">
+<tr>
 
-<h3 align="left">Connect with me:</h3>
+<td width="50%" valign="top">
 
-<p align="left">
+<h3>🚀 What I'm Doing</h3>
 
+🎯 <strong>Currently working on</strong>
+
+<br>
+
+<a href="https://github.com/gowthamkr-55/Credit-Card-Fraud-Detection-ML">
+Credit Card Fraud Detection using Machine Learning
+</a>
+
+<br><br>
+
+🌱 <strong>Currently learning</strong>
+
+<br>
+
+<strong>Python, Machine Learning, SQL and Data Science frameworks and courses</strong>
+
+<br><br>
+
+💬 <strong>Ask me about</strong>
+
+<br>
+
+<strong>Python, Machine Learning, SQL, Data Science and my projects</strong>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📌 Quick Info</h3>
+
+📫 <strong>Reach me at</strong>
+
+<br>
+
+<strong>gowthamkr55@gmail.com</strong>
+
+<br><br>
+
+📄 <strong>Experience</strong>
+
+<br>
+
+<a href="https://drive.google.com/file/d/10OGvySSj1-JOFBUzLG22DSbX089UhuXk/view?usp=drivesdk">
+<strong>Know about my experiences</strong>
+</a>
+
+<br><br>
+
+⚡ <strong>Fun fact</strong>
+
+<br>
+
+I enjoy turning ideas into projects and learning something new every day!
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECT                         -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 FEATURED PROJECT</h2>
+
+<table width="100%" border="2" cellpadding="16" cellspacing="0">
+<tr>
+
+<td width="22%" align="center">
+
+<h1>💳</h1>
+
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7B2CBF?style=for-the-badge"/>
+
+</td>
+
+<td width="78%">
+
+<h2>Credit Card Fraud Detection</h2>
+
+<p>
+Machine Learning project focused on detecting fraudulent credit card transactions.
+</p>
+
+<a href="https://github.com/gowthamkr-55/Credit-Card-Fraud-Detection-ML">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0E75B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CONNECT                                -->
+<!-- ========================================================= -->
+
+<h2 align="center">🤝 CONNECT WITH ME</h2>
+
+<table width="100%" border="2" cellpadding="10" cellspacing="0">
+<tr>
+
+<td align="center">
 <a href="https://twitter.com/gowthamkrg2003" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gowthamkrg2003" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35" height="35"/>
+<br>
+<strong>Twitter</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://linkedin.com/in/gowtham-k-r-721354315" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham-k-r-721354315" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35"/>
+<br>
+<strong>LinkedIn</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://kaggle.com/gowthamkrgowthamkr" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gowthamkrgowthamkr" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35" height="35"/>
+<br>
+<strong>Kaggle</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://fb.com/gowtham.k.r.gowtham.683208" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gowtham.k.r.gowtham.683208" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" height="35"/>
+<br>
+<strong>Facebook</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://instagram.com/gowtham.k.r" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gowtham.k.r" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35"/>
+<br>
+<strong>Instagram</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://medium.com/@gowthamkrgowthamkr70" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gowthamkrgowthamkr70" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35" height="35"/>
+<br>
+<strong>Medium</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.hackerrank.com/gowthamkrgowtha1" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gowthamkrgowtha1" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35" height="35"/>
+<br>
+<strong>HackerRank</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.leetcode.com/gowtham_k_r" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gowtham_k_r" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" height="35"/>
+<br>
+<strong>LeetCode</strong>
 </a>
+</td>
 
+<td align="center">
 <a href="https://auth.geeksforgeeks.org/user/gowthamkr55" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gowthamkr55" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="35" height="35"/>
+<br>
+<strong>GeeksForGeeks</strong>
 </a>
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                 LANGUAGES & TOOLS                         -->
+<!-- ========================================================= -->
+
+<h2 align="center">🛠️ LANGUAGES & TOOLS</h2>
+
+<table width="100%" border="2" cellpadding="10" cellspacing="5">
+
+<tr>
+
+<td align="center">
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.cprogramming.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.w3schools.com/css/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://flask.palletsprojects.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.w3.org/html/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.java.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.oracle.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://pandas.pydata.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://scikit-learn.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://seaborn.pydata.org/">
+<img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/SEABORN-4E79A7?style=for-the-badge"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.sqlite.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/15%2B-TOOLS-7B2CBF?style=for-the-badge"/>
+<br><br>
+<strong>Learning & Building</strong>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                          -->
+<!-- ========================================================= -->
+
+<h2 align="center">🎯 CURRENT FOCUS</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-0E75B6?style=for-the-badge"/>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
+<!-- ========================================================= -->
+<!--                    FINAL MESSAGE                          -->
+<!-- ========================================================= -->
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</a>
+<table width="100%" border="2" cellpadding="18" cellspacing="0">
+<tr>
+<td align="center">
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
+<h3>💡 Turning ideas into projects</h3>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a>
+Learning every day • Building towards the future 🚀
 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-</a>
+<br><br>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
+<i>Thanks for visiting my profile! ⭐</i>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-</a>
+</td>
+</tr>
+</table>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+<br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/seaborn/4E79A7" alt="seaborn" width="40" height="40"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-</a>
-
-</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0e75b6,70:7b2cbf,100:ff4b91&height=120&section=footer"/>
+</p> 
