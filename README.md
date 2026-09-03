@@ -29,31 +29,34 @@
 
 <td width="50%" valign="top">
 
+<h2>🚀 What I'm Doing &nbsp; | &nbsp; 📌 Quick Info</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 <h3>🚀 What I'm Doing</h3>
 
-🎯 <strong>Currently working on</strong>
+<p>🎯 <b>Currently working on</b></p>
 
-<br>
-
+<p>
 <a href="https://github.com/gowthamkr-55/Credit-Card-Fraud-Detection-ML">
 Credit Card Fraud Detection using Machine Learning
 </a>
+</p>
 
-<br><br>
+<p>🌱 <b>Currently learning</b></p>
 
-🌱 <strong>Currently learning</strong>
+<p>
+Python • Machine Learning • SQL • Data Science
+</p>
 
-<br>
+<p>💬 <b>Ask me about</b></p>
 
-<strong>Python, Machine Learning, SQL and Data Science frameworks and courses</strong>
-
-<br><br>
-
-💬 <strong>Ask me about</strong>
-
-<br>
-
-<strong>Python, Machine Learning, SQL, Data Science and my projects</strong>
+<p>
+Python • Machine Learning • SQL • Data Science • My Projects
+</p>
 
 </td>
 
@@ -61,29 +64,27 @@ Credit Card Fraud Detection using Machine Learning
 
 <h3>📌 Quick Info</h3>
 
-📫 <strong>Reach me at</strong>
+<p>📫 <b>Reach me at</b></p>
 
-<br>
-
-<strong>gowthamkr55@gmail.com</strong>
-
-<br><br>
-
-📄 <strong>Experience</strong>
-
-<br>
-
-<a href="https://drive.google.com/file/d/10OGvySSj1-JOFBUzLG22DSbX089UhuXk/view?usp=drivesdk">
-<strong>Know about my experiences</strong>
+<p>
+<a href="mailto:gowthamkr55@gmail.com">
+gowthamkr55@gmail.com
 </a>
+</p>
 
-<br><br>
+<p>📄 <b>Experience</b></p>
 
-⚡ <strong>Fun fact</strong>
+<p>
+<a href="https://drive.google.com/file/d/10OGvySSj1-JOFBUzLG22DSbX089UhuXk/view?usp=drivesdk">
+Know about my experiences
+</a>
+</p>
 
-<br>
+<p>⚡ <b>Fun fact</b></p>
 
+<p>
 I enjoy turning ideas into projects and learning something new every day!
+</p>
 
 </td>
 
@@ -334,9 +335,13 @@ Machine Learning project focused on detecting fraudulent credit card transaction
 
 <td align="center">
 <a href="https://seaborn.pydata.org/">
-<img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg"
+     width="45"
+     height="45"
+     alt="Seaborn"/>
 <br><br>
-<img src="https://img.shields.io/badge/SEABORN-4E79A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge"
+     alt="Seaborn"/>
 </a>
 </td>
 
