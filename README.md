@@ -3,11 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0e75b6,70:7b2cbf,100:ff4b91&height=230&section=header&text=GOWTHAM%20K%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0e75b6,70:7b2cbf,100:ff4b91&height=230&section=header&text=GOWTHAM%20K%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Python%20Developer%20%7C%20AI%20and%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;BCA+Student+%F0%9F%8E%93;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;AI+And+Machine+Learning+Enthusiast+%F0%9F%A4%96;BCA+Student+%F0%9F%8E%93;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
