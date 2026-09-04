@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://github.com/gowthamkr-55/Credit-Card-Fraud-Detection-ML">
-Credit Card Fraud Detection using Machine Learning
+Credit Card Fraud Detection using Machine Learning and Streamlit
 </a>
 </p>
 
