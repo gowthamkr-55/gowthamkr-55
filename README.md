@@ -55,7 +55,7 @@ Python • Machine Learning • SQL • Data Science
 <p>💬 <b>Ask me about</b></p>
 
 <p>
-Python • Machine Learning • SQL • Data Science • My Projects
+Python • Machine Learning • Artificial Intelligence • SQL • Data Science • My Projects
 </p>
 
 </td>
