@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=220&section=header&text=GOWTHAM%20K%20R&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20BCA%20Student&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+  <img src="assets/header-banner.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
+  <img src="assets/section-divider.svg" width="100%"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -65,7 +65,7 @@ I enjoy turning ideas into working projects and learning something new every day
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
+  <img src="assets/section-divider.svg" width="100%"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -123,7 +123,7 @@ Exploratory data analysis on Netflix's content catalog — uncovering trends acr
 
 `Python` `Pandas` `Seaborn`
 
-<sub>Repo link coming soon</sub>
+[![View Repo](https://img.shields.io/badge/View%20Repo-0E75B6?style=flat-square&logo=github&logoColor=white)](https://github.com/gowthamkr-55/Netflix-EDA-Project)
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +133,7 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 
 `Python` `NumPy` `Tkinter`
 
-<sub>Repo link coming soon</sub>
+[![View Repo](https://img.shields.io/badge/View%20Repo-0E75B6?style=flat-square&logo=github&logoColor=white)](https://github.com/gowthamkr-55/matrix_operations_tool)
 
 </td>
 </tr>
@@ -144,7 +144,7 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
+  <img src="assets/section-divider.svg" width="100%"/>
 </p>
 
 ## 🛠️ Languages & Tools
@@ -174,7 +174,7 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
+  <img src="assets/section-divider.svg" width="100%"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -189,7 +189,7 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
+  <img src="assets/section-divider.svg" width="100%"/>
 </p>
 
 ## 🤝 Connect With Me
@@ -212,5 +212,5 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=100&section=footer"/>
+  <img src="assets/footer-banner.svg"/>
 </p>
