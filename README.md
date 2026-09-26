@@ -26,8 +26,10 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=90&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=55&width=100%25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
 </p>
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -63,8 +65,10 @@ I enjoy turning ideas into working projects and learning something new every day
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=90&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=32&fontColor=ffffff&fontAlignY=55&width=100%25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
 </p>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -140,8 +144,10 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=90&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Languages%20%26%20Tools&fontSize=32&fontColor=ffffff&fontAlignY=55&width=100%25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
 </p>
+
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -168,8 +174,10 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=90&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=32&fontColor=ffffff&fontAlignY=55&width=100%25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
 </p>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gowthamkr-55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
@@ -181,8 +189,10 @@ A desktop GUI tool for performing matrix operations, built with NumPy and Tkinte
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=90&section=header&text=%F0%9F%A4%9D%20Connect%20With%20Me&fontSize=32&fontColor=ffffff&fontAlignY=55&width=100%25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,35:203a43,70:2c5364,100:0e75b6&height=8" width="100%"/>
 </p>
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/gowtham-k-r-721354315"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
